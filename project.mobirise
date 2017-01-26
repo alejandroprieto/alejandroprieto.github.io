@@ -22,7 +22,8 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 65,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -50,10 +51,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -95,7 +96,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.6",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -171,8 +172,8 @@
               "size": 250
             }
           },
-          "title": "Alejandro Prieto",
-          "text": ".",
+          "title": "Alejandro Prieto<br>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -254,6 +255,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "features3-1o",
           "_params": {
             "paddingTop": 2,
@@ -307,7 +313,7 @@
           },
           "title2": "Web Designer",
           "subtitle2": "",
-          "caption2": "Ever Since I started working on designing<br>websites in 6th grade, even though i wasnt&nbsp;<br>good at it, i always wanted to learn how to&nbsp;<br>make these businesses<br><br>",
+          "caption2": "Ever Since I started working on designing<br>websites in 6th grade, even though i wasnt&nbsp;<br>good at it, i always wanted to learn how to&nbsp;<br>make these online businesses.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -356,12 +362,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "color": "#000000"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -2333,6 +2334,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1h",
           "_params": {
             "labelsColor": "#232323",
@@ -2378,12 +2384,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         }
       ]
     },
