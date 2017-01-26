@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 62,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -803,10 +803,10 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery3",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": 4,
+            "paddingBottom": 4,
             "images": [
               {
                 "tags": "Awesome",
@@ -882,15 +882,15 @@
                 "caption": "Type caption here"
               }
             ],
-            "spacing": 1,
+            "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-1p",
+          "_anchor": "gallery2-1q",
           "articleLayout": false,
           "allItem": "All"
         }
