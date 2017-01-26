@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 51,
+    "uniqCompNum": 54,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -121,7 +121,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alejandro Prieto</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Picture of me.html\">Picture of me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Video of me.html\">Video of me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Biography.html\">Biography</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere.html\">Adobe Premiere</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP.html\" aria-expanded=\"false\">AP</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IC3.html\">IC3</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Contact me&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Picture of me.html\">Picture of me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Video of me.html\">Video of me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Biography.html\">Biography</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere.html\">Adobe Premiere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP.html\" aria-expanded=\"false\">AP</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IC3.html\">IC3</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact Page.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Contact me&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -138,13 +138,13 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "Alejandro Prieto",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -1789,6 +1789,176 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "Contact Page.html": {
+      "settings": {
+        "title": "Contact Page",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alejandro Prieto</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Introduction</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Picture of me.html\">Picture of me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Video of me.html\">Video of me</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Biography.html\">Biography</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Premiere.html\">Adobe Premiere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP.html\" aria-expanded=\"false\">AP</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IC3.html\">IC3</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact Page.html\" aria-expanded=\"false\"><span class=\"etl-icon icon-lightbulb mbr-iconfont mbr-iconfont-btn\"></span>Contact me&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1h",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "anprieto@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         }
       ]
     }
