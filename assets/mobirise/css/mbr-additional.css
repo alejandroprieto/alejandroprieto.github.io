@@ -478,6 +478,9 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header2-1k .mbr-section-text {
+  text-align: left;
+}
 #form1-1 .form-control-label {
   color: #232323;
 }

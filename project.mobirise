@@ -22,8 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 65,
-    "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@"
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -131,10 +130,10 @@
           "_name": "header2",
           "_anchor": "header2-1k",
           "_params": {
-            "imageSize": "36",
+            "imageSize": "30",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -173,8 +172,13 @@
             }
           },
           "title": "Alejandro Prieto<br>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "<p>My name is Alejandro Prieto. I am 14 years old living in Miami,Florida.<br>I currently attend Miami Arts Studio and enrolled in the Technology Production magnet.<br>Ever since i was little, I always had somewhat of a passion for using computers. Wether it was &nbsp;doing school projects, or even playing computer games , if it was a computer, it felt right. Then once i got into the Technology Production magnet it hit me. I found out all these amazing things you can do with a computer, like video editing, photo editing, Illustrating, animating, graphic designing, creating websites...etc. I really enjoy the program even though i mess up often, but that is just the part of learning.<br>&nbsp;</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -295,9 +299,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Photographer",
+          "title1": "Web Designer&nbsp;",
           "subtitle1": "",
-          "caption1": "Photography is one of my passions i enjoy doing<br>when i travel places. Why not make money doing something i have a passion for.<br><br>",
+          "caption1": "Ever Since I started working on designing<br>websites in 6th grade, even though i wasnt <br>good at it, i always wanted to learn how to <br>make these online businesses<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -311,9 +315,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Web Designer",
+          "title2": "Photographer",
           "subtitle2": "",
-          "caption2": "Ever Since I started working on designing<br>websites in 6th grade, even though i wasnt&nbsp;<br>good at it, i always wanted to learn how to&nbsp;<br>make these online businesses.<br><br>",
+          "caption2": "Photography is one of my passions i enjoy doing when i travel places. Why not make money doing something i love.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
