@@ -109,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-192x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-193x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -337,7 +337,7 @@
           },
           "title3": "",
           "subtitle3": "<b>Video edito</b>r",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "I always liked video editing. I have made a couple videos like skits,documentarys, and just random videos that i have to dedicate time into editing.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
