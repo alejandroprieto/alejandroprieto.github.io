@@ -4,7 +4,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -484,14 +483,6 @@ h6,
 }
 #header2-1k .mbr-section-title {
   text-align: center;
-}
-#features3-1o H5 {
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-}
-#form1-1v .form-control-label {
-  color: #232323;
 }
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
