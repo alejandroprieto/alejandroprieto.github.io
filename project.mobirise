@@ -229,7 +229,7 @@
           },
           "title1": "Web Designer",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Ever Since I started working on designing<br>websites in 6th grade, even though i wasnt <br>good at it, i always wanted to learn how to <br>make these online businesses.<br>",
+          "caption1": "Ever Since I started working on designing<br>websites in 6th grade, even though i was not&nbsp;good at it, i always wanted to learn how to make these online businesses.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -302,7 +302,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_name": "footer1",
