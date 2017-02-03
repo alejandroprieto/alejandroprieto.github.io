@@ -773,11 +773,11 @@ h6,
   color: #ffffff;
 }
 #menu-v .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-v .dropdown-item,
 #menu-v .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-v .link:hover,
 #menu-v .dropdown-item:hover,
