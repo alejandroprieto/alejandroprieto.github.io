@@ -1,7 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -418,6 +421,8 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -487,9 +492,13 @@ h6,
   text-align: center;
 }
 #content2-29 SPAN {
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  text-align: left;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 22px;
+  color: #000000;
+}
+#content2-29 DIV {
+  font-family: 'Lora', serif;
 }
 #features6-2a P {
   text-align: left;
@@ -497,11 +506,14 @@ h6,
 #features6-2a SPAN {
   text-align: left;
 }
+
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-n .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-n .navbar-toggler {
   color: #ffffff;
@@ -511,11 +523,11 @@ h6,
   color: #ffffff;
 }
 #menu-n .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-n .dropdown-item,
 #menu-n .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-n .link:hover,
 #menu-n .dropdown-item:hover,
@@ -564,11 +576,14 @@ h6,
 #menu-n .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-p .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-p .navbar-toggler {
   color: #ffffff;
@@ -578,11 +593,11 @@ h6,
   color: #ffffff;
 }
 #menu-p .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-p .dropdown-item,
 #menu-p .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-p .link:hover,
 #menu-p .dropdown-item:hover,
@@ -631,11 +646,14 @@ h6,
 #menu-p .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-r .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-r .navbar-toggler {
   color: #ffffff;
@@ -645,11 +663,11 @@ h6,
   color: #ffffff;
 }
 #menu-r .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-r .dropdown-item,
 #menu-r .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-r .link:hover,
 #menu-r .dropdown-item:hover,
@@ -698,11 +716,14 @@ h6,
 #menu-r .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-t .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-t .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-t .navbar-toggler {
   color: #ffffff;
@@ -765,11 +786,14 @@ h6,
 #menu-t .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-v .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-v .navbar-toggler {
   color: #ffffff;
@@ -832,11 +856,14 @@ h6,
 #menu-v .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-x .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-x .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-x .navbar-toggler {
   color: #ffffff;
@@ -846,11 +873,11 @@ h6,
   color: #ffffff;
 }
 #menu-x .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-x .dropdown-item,
 #menu-x .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-x .link:hover,
 #menu-x .dropdown-item:hover,
@@ -899,11 +926,14 @@ h6,
 #menu-x .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-z .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-z .navbar-toggler {
   color: #ffffff;
@@ -966,11 +996,14 @@ h6,
 #menu-z .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-11 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-11 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-11 .navbar-toggler {
   color: #ffffff;
@@ -1033,11 +1066,14 @@ h6,
 #menu-11 .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-13 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-13 .navbar-toggler {
   color: #ffffff;
@@ -1100,11 +1136,14 @@ h6,
 #menu-13 .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-15 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-15 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-15 .navbar-toggler {
   color: #ffffff;
@@ -1114,11 +1153,11 @@ h6,
   color: #ffffff;
 }
 #menu-15 .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-15 .dropdown-item,
 #menu-15 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-15 .link:hover,
 #menu-15 .dropdown-item:hover,
@@ -1167,11 +1206,14 @@ h6,
 #menu-15 .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-17 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-17 .navbar-toggler {
   color: #ffffff;
@@ -1181,11 +1223,11 @@ h6,
   color: #ffffff;
 }
 #menu-17 .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-17 .dropdown-item,
 #menu-17 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-17 .link:hover,
 #menu-17 .dropdown-item:hover,
@@ -1234,11 +1276,14 @@ h6,
 #menu-17 .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-19 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-19 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-19 .navbar-toggler {
   color: #ffffff;
@@ -1248,11 +1293,11 @@ h6,
   color: #ffffff;
 }
 #menu-19 .link {
-  font-size: 0.6rem;
+  font-size: 0.95rem;
 }
 #menu-19 .dropdown-item,
 #menu-19 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 1.029rem;
 }
 #menu-19 .link:hover,
 #menu-19 .dropdown-item:hover,
@@ -1301,11 +1346,14 @@ h6,
 #menu-19 .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-1b .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-1b .navbar-toggler {
   color: #ffffff;
@@ -1315,11 +1363,11 @@ h6,
   color: #ffffff;
 }
 #menu-1b .link {
-  font-size: 0.6rem;
+  font-size: 0.95rem;
 }
 #menu-1b .dropdown-item,
 #menu-1b .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 1.029rem;
 }
 #menu-1b .link:hover,
 #menu-1b .dropdown-item:hover,
@@ -1368,11 +1416,14 @@ h6,
 #menu-1b .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-1d .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-1d .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-1d .navbar-toggler {
   color: #ffffff;
@@ -1435,11 +1486,14 @@ h6,
 #menu-1d .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-1f .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-1f .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-1f .navbar-toggler {
   color: #ffffff;
@@ -1505,11 +1559,14 @@ h6,
 #form1-1h .form-control-label {
   color: #232323;
 }
+
 #menu-23 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-23 .navbar-caption {
   color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 #menu-23 .navbar-toggler {
   color: #ffffff;
@@ -1570,5 +1627,81 @@ h6,
 }
 #menu-23 .close-icon::before,
 #menu-23 .close-icon::after {
+  background-color: #ffffff;
+}
+
+#header5-2e .mbr-section-title {
+  color: #000;
+}
+#header5-2e .mbr-section-lead {
+  color: #9c9a9a;
+}
+#menu-2b .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2b .navbar-caption {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+#menu-2b .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2b .link,
+#menu-2b .dropdown-item {
+  color: #ffffff;
+}
+#menu-2b .link {
+  font-size: 0.95rem;
+}
+#menu-2b .dropdown-item,
+#menu-2b .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-2b .link:hover,
+#menu-2b .dropdown-item:hover,
+#menu-2b .link:focus,
+#menu-2b .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-2b .link[aria-expanded="true"],
+#menu-2b .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-2b .nav-dropdown-sm .link:focus,
+#menu-2b .nav-dropdown-sm .link:hover,
+#menu-2b .nav-dropdown-sm .dropdown-item:focus,
+#menu-2b .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-2b .navbar,
+#menu-2b .nav-dropdown-sm,
+#menu-2b .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2b .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-2b .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2b .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2b .bg-color.transparent.opened .link:hover,
+#menu-2b .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-2b .link[aria-expanded="true"],
+#menu-2b .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-2b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2b .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2b .close-icon::before,
+#menu-2b .close-icon::after {
   background-color: #ffffff;
 }
