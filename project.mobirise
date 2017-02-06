@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 82,
+    "uniqCompNum": 83,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -193,19 +193,144 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-29",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>A little bit about me: My name is Alejandro Prieto. I am 14 years old living in Miami,Florida.</i></span></font><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>I currently attend Miami Arts Studio and enrolled in the Technology Production magnet.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ever since i was little, I always had somewhat of a passion for using computers. Wether it was  doing school projects, or even playing computer games , if it was a computer, it felt right. Then once i got into the Technology Production magnet it hit me. I found out all these amazing things you can do with a computer, like video editing, photo editing, Illustrating, animating, graphic designing, creating websites...etc. I really enjoy the program even though i mess up often, but that is just the part of learning.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div>",
           "_styles": {
             "SPAN": {
               "text-align": "center",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "20px"
+            }
+          },
+          "_anchor": "content2-29",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>A little bit about me: My name is Alejandro Prieto. I am 14 years old living in Miami,Florida.</i></span></font><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>I currently attend Miami Arts Studio and enrolled in the Technology Production magnet.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Ever since i was little, I always had somewhat of a passion for using computers. Wether it was  doing school projects, or even playing computer games , if it was a computer, it felt right. Then once i got into the Technology Production magnet it hit me. I found out all these amazing things you can do with a computer, like video editing, photo editing, Illustrating, animating, graphic designing, creating websites...etc. I really enjoy the program even though i mess up often, but that is just the part of learning.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>&nbsp;</i></span></font></div>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-2a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "Web Designer",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Ever since we started to learn how to make websites in Adobe &nbsp;Dreamweaver, i always had a passion for it even though i wasnt that good at it.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Photographer",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">I always loved taking pictures, especially when i travel and how </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">amazing it is to captures natures stunnning actions during they day and night &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "video-play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Video Editor",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "To me i really enjoy making videos. I have made a couple skits, documentaries, challenges, and just anything random idea that i want to make a video out of.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "video-play",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "To me i really enjoy making videos. I have made a couple skits, documentaries, challenges, and just anything random idea that i want to make a video out of.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "text-align": "left"
             }
           }
         },

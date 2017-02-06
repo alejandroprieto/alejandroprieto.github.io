@@ -491,6 +491,12 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
+#features6-2a P {
+  text-align: left;
+}
+#features6-2a SPAN {
+  text-align: left;
+}
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
