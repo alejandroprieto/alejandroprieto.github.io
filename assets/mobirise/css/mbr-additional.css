@@ -491,6 +491,9 @@ h6,
   text-align: right;
   color: #ffffff;
 }
+#contacts4-2m UL {
+  text-align: left;
+}
 
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
@@ -1776,5 +1779,8 @@ h6,
   text-align: left;
 }
 #features6-2j SPAN {
+  text-align: left;
+}
+#contacts4-2m UL {
   text-align: left;
 }
