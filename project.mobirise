@@ -694,10 +694,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1028,6 +1028,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-recovered-4-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-recovered-4-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alejandro-prieto-dfg-2000x798-800x319.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alejandro-prieto-dfg-2000x798.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
