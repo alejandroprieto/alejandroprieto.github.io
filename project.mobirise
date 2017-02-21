@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2888,7 +2888,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x929.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2997,7 +3001,7 @@
           },
           "title2": "Photographer",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "I always loved taking pictures, especially when i travel and how amazing it is to captures natures stunnning actions during they day and night.                          ",
+          "caption2": "I always loved taking pictures, especially when i travel and how amazing it is to captures natures stunnning actions during they day and night. It could be anything from a sunrise to a deer crossing the street or even snow falling from the sky. Nature itself is just an amazing memory to capture",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -3013,7 +3017,7 @@
           },
           "title3": "Video Editor",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "To me i really enjoy making videos. I have made a couple skits, documentaries, challenges, and just anything random idea that i want to make a video out of.",
+          "caption3": "To me i really enjoy making videos. I have made a couple skits, documentaries, challenges, and just any random idea that i want to make a video out of. In 6th grade we were working on a film project. It was about making a short movie of the end of the world. Thats when i grew a passion for making and editing videos.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -3029,7 +3033,7 @@
           },
           "title4": "Air Traffic Controller",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have seen alot of airplane investigation videos and alot of air traffic controlling videos and have surprisingly grown an interest managing airplane traffic.",
+          "caption4": "I have seen alot of airplane investigation videos and alot of air traffic controlling videos and have surprisingly grown an interest in &nbsp;managing airplane traffic. &nbsp;In order to succeed in this job you must be able to multi-task and be able to manage a lot of stress or you can be the cause of hundreds of lives.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
