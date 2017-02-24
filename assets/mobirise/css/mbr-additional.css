@@ -494,6 +494,10 @@ h6,
 #contacts4-2m UL {
   text-align: left;
 }
+#social-buttons4-2w .mbr-section-title,
+#social-buttons4-2w .btn-social {
+  color: #fff;
+}
 
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
