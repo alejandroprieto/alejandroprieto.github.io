@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -142,7 +142,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -150,7 +150,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.9",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -177,8 +177,8 @@
           "_name": "header3",
           "_anchor": "header3-2o",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#000000",
             "showMeta": false
           },
@@ -192,8 +192,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -202,8 +202,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1327-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2000x1327.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "If walls could talk",
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -212,7 +212,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1327-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1327.jpg",
-                "caption": "Type caption here",
+                "caption": "Postcard Piece",
                 "active": false
               },
               {
@@ -222,7 +222,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1327-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1327.jpg",
-                "caption": "Type caption here",
+                "caption": "Retro TV",
                 "active": false
               },
               {
@@ -232,12 +232,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x1327-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x1327.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Sights and Sounds of the 60's",
+                "active": false
               }
             ],
-            "spacing": 1,
-            "showText": false,
+            "spacing": "1",
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
@@ -333,8 +333,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-2w",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -605,10 +605,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -827,7 +827,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Sights and Sounds of the 60's<br>",
                 "active": false
               },
               {
@@ -837,7 +837,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "CD Case",
                 "active": false
               },
               {
@@ -847,7 +847,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-6-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-6-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Kayak Engine Blue Print<br>",
                 "active": true
               },
               {
@@ -857,7 +857,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Illusion Piece",
                 "active": false
               },
               {
@@ -867,7 +867,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-7-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-7-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Orchestra show Poster<br>",
                 "active": false
               },
               {
@@ -877,7 +877,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-8-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-8-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               }
             ],
@@ -1025,7 +1025,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-recovered-5-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-recovered-5-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Technology Production logo piece<br>",
                 "active": false
               },
               {
@@ -1035,7 +1035,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Character for Animation (Peter Griffin)",
                 "active": false
               },
               {
@@ -1045,7 +1045,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-recovered-2-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-recovered-2-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Character for Animation (Lois Griffin)",
                 "active": false
               },
               {
@@ -1055,7 +1055,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-recovered-4-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-recovered-4-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Human aging (26 years old)",
                 "active": false
               },
               {
@@ -1065,12 +1065,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alejandro-prieto-dfg-2000x798-800x319.jpg",
                 "image": "@PROJECT_PATH@/assets/images/alejandro-prieto-dfg-2000x798.jpg",
-                "caption": "Type caption here",
+                "caption": "Google Piece",
                 "active": true
               }
             ],
             "spacing": 0,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
@@ -2896,7 +2896,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2904,7 +2904,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0",
             "overlayColor": "#fff",
             "inverse": false,
             "showTitle": true,
@@ -2915,7 +2915,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alejandro-prieto-age-26-1400x1960.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2935,7 +2935,12 @@
           },
           "title": "A little bit about me",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [

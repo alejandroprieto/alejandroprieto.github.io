@@ -655,11 +655,11 @@ h6,
   color: #ffffff;
 }
 #menu-r .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-r .dropdown-item,
 #menu-r .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-r .link:hover,
 #menu-r .dropdown-item:hover,
@@ -1768,6 +1768,9 @@ h6,
 #menu-2g .close-icon::before,
 #menu-2g .close-icon::after {
   background-color: #ffffff;
+}
+#msg-box5-2q H3 {
+  color: #ffffff;
 }
 #content2-2i SPAN {
   text-align: left;
