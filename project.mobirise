@@ -262,14 +262,14 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
             "bgColor": "#2d2d2d",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>14428 sw 46 terrace<br>33175<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prieto.ale47@gmail.com<br>\nPhone: +1 786-451-3556<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Miami Arts Studio</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Technology Production Class website</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br><br><br></a></li></ul>",
@@ -2889,6 +2889,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-2q",
           "_params": {
             "imageSize": "29",
@@ -2935,12 +2940,7 @@
           },
           "title": "A little bit about me",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
