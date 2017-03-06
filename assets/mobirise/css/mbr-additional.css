@@ -494,6 +494,10 @@ h6,
 #contacts4-2m UL {
   text-align: left;
 }
+#header3-32 .mbr-section-title,
+#header3-32 .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons4-2w .mbr-section-title,
 #social-buttons4-2w .btn-social {
   color: #fff;
