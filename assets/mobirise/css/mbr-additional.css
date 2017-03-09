@@ -491,12 +491,12 @@ h6,
   text-align: right;
   color: #ffffff;
 }
-#contacts4-2m UL {
-  text-align: left;
-}
 #header3-32 .mbr-section-title,
 #header3-32 .mbr-section-subtitle {
   text-align: center;
+}
+#contacts4-2m UL {
+  text-align: left;
 }
 #social-buttons4-2w .mbr-section-title,
 #social-buttons4-2w .btn-social {
