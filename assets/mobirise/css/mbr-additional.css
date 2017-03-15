@@ -491,10 +491,6 @@ h6,
   text-align: right;
   color: #ffffff;
 }
-#header3-32 .mbr-section-title,
-#header3-32 .mbr-section-subtitle {
-  text-align: center;
-}
 #contacts4-2m UL {
   text-align: left;
 }
@@ -519,11 +515,11 @@ h6,
   color: #ffffff;
 }
 #menu-n .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-n .dropdown-item,
 #menu-n .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-n .link:hover,
 #menu-n .dropdown-item:hover,
@@ -782,6 +778,10 @@ h6,
 #menu-t .close-icon::after {
   background-color: #ffffff;
 }
+#header3-34 .mbr-section-title,
+#header3-34 .mbr-section-subtitle {
+  text-align: center;
+}
 #slider2-33 .mbr-section-title,
 #slider2-33 .mbr-section-lead {
   color: #fff;
@@ -943,11 +943,11 @@ h6,
   color: #ffffff;
 }
 #menu-z .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-z .dropdown-item,
 #menu-z .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-z .link:hover,
 #menu-z .dropdown-item:hover,
