@@ -782,6 +782,10 @@ h6,
 #menu-t .close-icon::after {
   background-color: #ffffff;
 }
+#slider2-33 .mbr-section-title,
+#slider2-33 .mbr-section-lead {
+  color: #fff;
+}
 
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
