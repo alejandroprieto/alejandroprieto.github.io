@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adobe Photoshop.html",
+    "currentPage": "Introduction.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 117,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
   },
@@ -2948,20 +2947,25 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/Gw7psX31lxE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/RHOZnYgTFZk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<a href=\"https://www.youtube.com/channel/UC9Cq__B1F_abSVZ7S_PXDaA\">A little bit about me</a>",
+          "title": "<i><a href=\"https://www.youtube.com/channel/UC9Cq__B1F_abSVZ7S_PXDaA\">A little bit about me</a></i>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title I": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_styles": {
