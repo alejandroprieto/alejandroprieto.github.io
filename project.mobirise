@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 117,
+    "uniqCompNum": 119,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -2936,6 +2936,11 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-title I": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "header4-37",
           "_params": {
             "parallax": true,
@@ -2960,12 +2965,7 @@
           },
           "title": "<i><a href=\"https://www.youtube.com/channel/UC9Cq__B1F_abSVZ7S_PXDaA\">A little bit about me</a></i>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title I": {
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
