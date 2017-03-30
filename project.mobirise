@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 119,
+    "uniqCompNum": 125,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -143,7 +143,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -157,11 +157,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Alejandro Prieto<br>~~Welcome~~",
           "text": "\" Every morning is a new chance at life.\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/watch?v=RHOZnYgTFZk\" data-toolbar=\"-mbrBtnMove\">My Introduction</a> "
         },
         {
           "_styles": {
@@ -254,6 +254,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/channel/UC9Cq__B1F_abSVZ7S_PXDaA\" data-toolbar=\"-mbrBtnMove\">YOUTUBE CHANNEL</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts4",
           "_styles": {
             "UL": {
@@ -274,7 +287,7 @@
             "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>14428 sw 46 terrace<br>33175<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prieto.ale47@gmail.com<br>\nPhone: +1 786-451-3556<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Miami Arts Studio</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Technology Production Class website</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br><br><br></a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Miami Arts Studio</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Technology Production Class website</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "prieto.ale47@gmail.com",
@@ -2931,41 +2944,52 @@
       },
       "components": [
         {
-          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_styles": {
-            ".mbr-section-title I": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "header4-37",
+          "_name": "header2",
+          "_anchor": "header2-3f",
           "_params": {
+            "imageSize": "47",
             "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1424.jpg",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/RHOZnYgTFZk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.9",
             "overlayColor": "#000",
-            "contentAlign": "right",
+            "inverse": false,
             "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
           },
-          "title": "<i><a href=\"https://www.youtube.com/channel/UC9Cq__B1F_abSVZ7S_PXDaA\">A little bit about me</a></i>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Introduction",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -3218,6 +3242,23 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_name": "footer1",
+          "_anchor": "footer1-2k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3231,17 +3272,17 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
             "bgColor": "#2d2d2d",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>14428 sw 46 terrace<br>33175<br><br><br>\n<strong>Contacts</strong><br>\nEmail: prieto.ale47@gmail.com<br>\nPhone: +1 786-451-3556<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Miami Arts Studio</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Technology Production Class website</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br><br><br></a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://mas.dadeschools.net/\">Miami Arts Studio</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Technology Production Class website</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"><br></a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "prieto.ale47@gmail.com",
@@ -3271,23 +3312,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2k",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
         }
       ]
     }
