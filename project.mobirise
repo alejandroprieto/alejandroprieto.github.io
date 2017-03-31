@@ -2950,7 +2950,7 @@
           "_name": "header2",
           "_anchor": "header2-3f",
           "_params": {
-            "imageSize": "47",
+            "imageSize": "29",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1424.jpg",
@@ -2973,7 +2973,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/alejandro-prieto-age-26-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
