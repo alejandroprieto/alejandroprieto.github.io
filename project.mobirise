@@ -1364,8 +1364,8 @@
               {
                 "tags": "Awesome",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/w2UnA3h0bX8",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-06-10-19-40.jpg",
+                "videoUrl": "https://youtu.be/2MZDcCYVKiU",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-06-10-28-18.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
                 "caption": "Type caption here",
