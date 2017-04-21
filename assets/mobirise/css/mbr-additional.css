@@ -929,6 +929,18 @@ h6,
 #menu-x .close-icon::after {
   background-color: #ffffff;
 }
+#header6-3m .mbr-section-title {
+  color: #28262b;
+}
+#header6-3m .mbr-section-text {
+  color: #565656;
+}
+#header6-3n .mbr-section-title {
+  color: #28262b;
+}
+#header6-3n .mbr-section-text {
+  color: #565656;
+}
 
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
