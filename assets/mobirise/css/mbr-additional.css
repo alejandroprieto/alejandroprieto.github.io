@@ -930,16 +930,21 @@ h6,
   background-color: #ffffff;
 }
 #header6-3m .mbr-section-title {
-  color: #28262b;
+  color: #000000;
 }
 #header6-3m .mbr-section-text {
   color: #565656;
 }
 #header6-3n .mbr-section-title {
-  color: #28262b;
+  color: #000000;
+  text-align: left;
+  font-size: 30px;
 }
 #header6-3n .mbr-section-text {
   color: #565656;
+}
+#header6-3n .mbr-section-title SPAN {
+  font-size: 30px;
 }
 
 #menu-z .hide-buttons .nav-btn {
