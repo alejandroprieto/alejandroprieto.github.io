@@ -918,7 +918,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-6-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-6-2000x1333.jpg",
                 "caption": "Kayak Engine Blue Print<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -947,8 +947,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-8-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-8-2000x1333.jpg",
-                "caption": "",
-                "active": false
+                "caption": "e love you George",
+                "active": true
               }
             ],
             "spacing": "2",
@@ -1273,10 +1273,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alejandro-prieto-dfg-2000x798-800x319.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alejandro-prieto-dfg-2000x798.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dfg-2000x1300-800x520.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dfg-2000x1300.jpg",
                 "caption": "Google Piece",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stop-gun-violence-2000x1300-800x520.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stop-gun-violence-2000x1300.jpg",
+                "caption": "Stop Gun violence",
+                "active": false
               }
             ],
             "spacing": 0,
@@ -1904,10 +1914,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
