@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 132,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
   },
@@ -1525,7 +1526,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=jXrWD7zhZtk",
+              "src": "https://youtu.be/qO3ZRrSLhjE",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
